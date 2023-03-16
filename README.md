@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=XKARSH&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM3YTU3NTAwNmVhNWEwZTc5NGFkYjk3NDJkNDFlYTgxNWEyY2ZlNSZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Utkarsh Kumar
+    Hey<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM3YTU3NTAwNmVhNWEwZTc5NGFkYjk3NDJkNDFlYTgxNWEyY2ZlNSZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Utkarsh Kumar
   </h1>
 </div>
 <div>
@@ -16,13 +16,15 @@
   </h3>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 - 🚀 Mastering React
-- Proficient in frontend development using React.js, Node.js, HTML/CSS, and Javascript.
-- Experienced in building REST APIs and using Express.js and MongoDB.
+- 💪 Proficient in frontend development using React.js, Node.js, HTML/CSS, and Javascript.
+- 🧠 Experienced in building REST APIs and using Express.js and MongoDB.
+- 📫 How to reach me - <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=utkarshk2207@gmail.com">utkarshk2207@gmail.com</a>
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1hjWIHz6aJe93gw0kiQayxp3mL23jJc3p/view">Resume</a>
 
 
-### 🧰: Languages and Tools :
+### 🧰 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -47,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="Bash" width="40" height="40"/>&nbsp;
   
-### :fire: My Stats :
+### 🔥 My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XKARSH&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XKARSH&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
