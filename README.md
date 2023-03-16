@@ -1,4 +1,6 @@
-![Profile](images/github%20gif.gif)
+<div id="header" align="center">
+  <img src="images/github%20gif.gif" alt ="Profile" width="100"/>
+</div>
 
 <!--
 **XKARSH/XKARSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
