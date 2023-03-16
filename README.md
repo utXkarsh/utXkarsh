@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="images/github%20gif.gif" alt ="Profile" width="100"/>
+  <img src="images/github%20gif.gif" alt ="Profile" width="200"/>
 </div>
 
 <!--
