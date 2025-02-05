@@ -21,7 +21,7 @@
 - 💪 Proficient in frontend development using React.js, Node.js, HTML/CSS, and Javascript.
 - 🧠 Experienced in building REST APIs and using Express.js and MongoDB.
 - 📫 How to reach me - <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=utkarshk2207@gmail.com">utkarshk2207@gmail.com</a>
-- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1hjWIHz6aJe93gw0kiQayxp3mL23jJc3p/view">Resume</a>
+- 📄 Know about my experiences - <a href="[https://drive.google.com/file/d/1hjWIHz6aJe93gw0kiQayxp3mL23jJc3p/view](https://drive.google.com/drive/u/0/folders/17o7DWrtA3H_hJRn30mIP43ZbBiMJVEO1)">Resume</a>
 
 
 ### 🧰 Languages and Tools :
